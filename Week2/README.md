@@ -14,4 +14,12 @@ Cách hoạt động của Multinomial Naive Bayes:
 
 ![image](https://github.com/user-attachments/assets/e007c232-4c43-45a8-b21f-6f03e7c6d94a)
 
+Kết quả của Bernoulli
+![image](https://github.com/user-attachments/assets/29adf56f-9338-4951-994a-ae426e26aeb0)
+
+Kết quả của Gaussian
+![image](https://github.com/user-attachments/assets/f08be1d6-d1ad-49c9-a187-2ad4b2787b1d)
+
+Kết quả của Multinomial
+![image](https://github.com/user-attachments/assets/7cb419c9-f2d1-40ac-9051-da06685cf043)
 
